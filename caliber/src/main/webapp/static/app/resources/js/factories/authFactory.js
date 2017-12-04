@@ -3,7 +3,6 @@ angular.module("auth").factory("authFactory",
 			$log.debug("Booted Authentication Factory");
 
 			var auth = {};
-			var devMode = false;
 			var DEBUG_URL = "/caliber/";
 
 			// Roles
