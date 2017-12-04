@@ -522,7 +522,6 @@ angular
 						sortByDate($scope.selectedYear);
 						batchYears();
 						$scope.currentBatch = $scope.batchesByYear[0];
-
 						// Create week array for batch selected
 						$scope.weeks = [];
 						if ($scope.currentBatch !== null
