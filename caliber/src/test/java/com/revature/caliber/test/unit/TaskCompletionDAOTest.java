@@ -6,8 +6,6 @@ import java.time.Instant;
 import java.util.Date;
 import java.util.List;
 
-import javax.validation.ConstraintViolationException;
-
 import org.apache.log4j.Logger;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

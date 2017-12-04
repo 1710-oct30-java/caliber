@@ -20,7 +20,6 @@ angular
 		"allReportController",
 		function($rootScope, $scope, $state, $log, caliberDelegate,
 				chartsDelegate, allBatches) {
-			
 			// *******************************************************************************
 			// *** UI
 			// *******************************************************************************
